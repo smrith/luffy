@@ -1,4 +1,4 @@
-module luffy
+module github.com/demonkingswarn/luffy
 
 go 1.25.5
 

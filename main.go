@@ -1,6 +1,6 @@
 package main
 
-import "luffy/cmd"
+import "github.com/demonkingswarn/luffy/cmd"
 
 func main() {
 	cmd.Execute()

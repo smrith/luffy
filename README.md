@@ -24,13 +24,21 @@ Before using Luffy, ensure you have the following installed on your system:
 
 ## Installation
 
+### Binary Installation
+To install the latest version directly:
+```bash
+go install github.com/demonkingswarn/luffy@latest
+```
+*Note: Replace `username` with the actual repository owner.*
+
+### Building from Source
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/luffy.git
+    git clone https://github.com/demonkingswarn/luffy.git
     cd luffy
     ```
 
-2.  Build and install the binary:
+2.  Build and install:
     ```bash
     go install
     ```

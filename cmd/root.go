@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"luffy/core"
+	"github.com/demonkingswarn/luffy/core"
 	"github.com/spf13/cobra"
 )
 
