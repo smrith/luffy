@@ -11,7 +11,7 @@ import (
 )
 
 func Download(basePath, name, url, referer string, subtitles []string) error {
-	dlPath := filepath.Join(basePath, "luffy-downloads")
+	dlPath := filepath.Join(basePath, "Downloads", "luffy")
 	if err := os.MkdirAll(dlPath, 0755); err != nil {
 		return err
 	}
