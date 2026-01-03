@@ -28,7 +28,7 @@ Before using Luffy, ensure you have the following installed on your system:
 ### Installation using Go
 
 ```sh
-go install github.com/demonkingswarn/luffy@v1.0
+go install github.com/demonkingswarn/luffy@v1.0.0
 ```
 
 ### Building from Source
